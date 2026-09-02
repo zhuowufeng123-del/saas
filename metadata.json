@@ -1,0 +1,6 @@
+{
+  "name": "睿校园数据驾驶舱",
+  "description": "智慧校园数据驾驶舱大屏，支持实时巡课、3D教室能耗拓扑视图、设备与告警监控、工单运维及能耗分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
